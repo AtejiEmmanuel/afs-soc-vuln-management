@@ -105,6 +105,9 @@ The report includes a full prioritised remediation roadmap. Top immediate action
 
 ---
 
+## Full Project Documentation
+For comprehensive details, please refer to the [complete documentation](https://github.com/AtejiEmmanuel/ISO-27001-Based-Security-Audit-and-Assessment/blob/a3bea7de56655826651135ff8e9e756eefde679c/ISO%2027001-Based%20Security%20Audit%20and%20Assessment.pdf).
+
 ## Disclaimer
 
 This assessment was conducted in a controlled lab environment against intentionally vulnerable systems (Metasploitable 2) and a designated test web application (testphp.vulnweb.com). All findings should be validated through manual penetration testing prior to sign-off. Severity ratings use CVSS v3.0 where available; CVSS v2.0 is noted where used.

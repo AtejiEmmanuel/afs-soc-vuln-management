@@ -85,12 +85,12 @@ The assessment followed a structured six-phase approach aligned with **NIST SP 8
 ├── README.md
 ├── AFS-Presentation-Slides.pdf         ← You are here
 ├── AFS_SOC_VulnMgmt_Report.docx        ← Full assessment report
-└── vuln-scans/
+└── vuln-scans-reports/
     ├── Metasploitable 2/
     ├── VulnWeb PHP App/
 ```
 
-> **Note:** The [`vuln-scans/`](https://github.com/AtejiEmmanuel/afs-soc-vuln-management/tree/main/vuln-scans-reports) folder contains the raw scan outputs referenced as Appendix B in the main report. 
+> **Note:** The [`vuln-scans-reports/`](https://github.com/AtejiEmmanuel/afs-soc-vuln-management/tree/main/vuln-scans-reports) folder contains the raw scan outputs referenced as Appendix B in the main report. 
 
 
 ---

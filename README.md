@@ -107,7 +107,7 @@ The report includes a full prioritised remediation roadmap. Top immediate action
 ---
 
 ## Full Project Documentation
-For comprehensive details, please refer to the [complete documentation](https://github.com/AtejiEmmanuel/afs-soc-vuln-management/blob/main/AFS_SOC_VulnMgmt_Report.docx).
+For comprehensive details, please refer to the [complete documentation](https://github.com/AtejiEmmanuel/AFS-SOC-Vulnerability-Management/blob/main/AFS_SOC_VulnMgmt_Report.pdf).
 
 ## Disclaimer
 
